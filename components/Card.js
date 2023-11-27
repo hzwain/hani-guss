@@ -24,5 +24,5 @@ const styles= StyleSheet.create({
         shadowOpacity: 0.30,
 
 
-    },
-});
+    }
+})
